@@ -27,6 +27,7 @@ This version of Gemini Snippets is just the beginning of what will hopefully be 
 - It would be nice if each module had its own ``help`` command to show the documentation doc block, modifyers, and custom extensions.
 - Many other code editors have similar snippet features - it would be lovely if our build process could cater to other tools.
 - It would be swell if you didn't have to manually copy files into Sublime Text working folders.
+- When robots build this it would be nice to give the option of HTML / Haml / Jade for markup output.
 
 ## Credits
 Gemini CSS started as a fork from [Inuit.css](https://github.com/csswizardry/inuit.css)
