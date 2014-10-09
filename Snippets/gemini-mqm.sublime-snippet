@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-  @include quick-media-query(medium) {
+@include quick-media-query(medium) {
 
-  }
+}
   ]]></content>
   <tabTrigger>g-mqm</tabTrigger>
 </snippet>

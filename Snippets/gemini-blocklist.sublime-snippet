@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
-<ul class=block-list>
+<ul class="block-list">
   <li>Foo</li>
   <li>Bar</li>
   <li>Baz</li>
-  <li><a href=# class=block-list__link>Foo Bar Baz</a></li>
+  <li><a href="#" class="block-list__link">Foo Bar Baz</a></li>
 </ul>
   ]]></content>
   <tabTrigger>g-blocklist</tabTrigger>

@@ -1,9 +1,9 @@
 <snippet>
   <content><![CDATA[
 <ol class="split">
-  <li class=first><b class=split__title>Engine</b> Value</li>
-  <li class=second><b class=split__title>Seating</b> Value</li>
-  <li class=third><b class=split__title>Bluetooth</b> Value</li>
+  <li class="first"><b class="split__title">Engine</b> Value</li>
+  <li class="second"><b class="split__title">Seating</b> Value</li>
+  <li class="third"><b class="split__title">Bluetooth</b> Value</li>
 </ol>
   ]]></content>
   <tabTrigger>g-split</tabTrigger>
