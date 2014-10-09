@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<ul class="nav" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+  <li><a href="#" itemprop="url">Showroom</a></li>
+  <li><a href="#" itemprop="url">Financing</a></li>
+  <li><a href="#" itemprop="url">About Us</a></li>
+  <li><a href="#" itemprop="url">Contact</a></li>
+</ul>
+  ]]></content>
+  <tabTrigger>g-nav</tabTrigger>
+</snippet>

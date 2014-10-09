@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<div class="media">
+  <img src="" alt="" class="media__img">
+  <p class="media__content"></p>
+</div>
+  ]]></content>
+  <tabTrigger>g-media</tabTrigger>
+</snippet>

@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+<div id="js-tabs">
+  <div role="tablist">
+    <a id="tab-label--tab1" href="#tab-tab1" role="tab" aria-controls="tab-tab1">Tab1</a>
+    <a id="tab-label--tab2" href="#tab-tab2" role="tab" aria-controls="tab-tab2">Tab2</a>
+    <a id="tab-label--tab3" href="#tab-tab3" role="tab" aria-controls="tab-tab3">Tab3</a>
+  </div>
+</div><!-- tabs -->
+
+<div id="tab-tab1" class="tab  is-active" role="tabpanel" aria-labelledby="tab-label--tab1">
+
+</div><!-- tab -->
+<div id="tab-tab2" class="tab" role="tabpanel" aria-labelledby="tab-label--tab2">
+
+</div><!-- tab -->
+<div id="tab-tab3" class="tab" role="tabpanel" aria-labelledby="tab-label--tab3">
+
+</div><!-- tab -->
+  ]]></content>
+  <tabTrigger>g-tab</tabTrigger>
+</snippet>

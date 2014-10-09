@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<div class="l-column">
+
+</div><!-- column -->
+  ]]></content>
+  <tabTrigger>g-col</tabTrigger>
+</snippet>

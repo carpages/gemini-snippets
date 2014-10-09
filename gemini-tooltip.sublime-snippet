@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+    <span class="js-tooltip" data-tip="TooltipContent" data-place="left">
+
+    </span>
+  ]]></content>
+  <tabTrigger>g-tooltip</tabTrigger>
+</snippet>

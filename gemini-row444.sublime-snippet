@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+<div class="l-row">
+  <div class="l-column--medium-4">
+
+  </div><!-- column -->
+  <div class="l-column--medium-4">
+
+  </div><!-- column -->
+  <div class="l-column--medium-4">
+
+  </div><!-- column -->
+</div><!-- row -->
+  ]]></content>
+  <tabTrigger>g-row444</tabTrigger>
+</snippet>

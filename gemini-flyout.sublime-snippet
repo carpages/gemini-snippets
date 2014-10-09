@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<div class="flyout">
+  Foo
+  <div class="flyout__content">
+    <p>Lorem</p>
+    <p>Ipsum</p>
+  </div>
+</div>
+  ]]></content>
+  <tabTrigger>g-flyout</tabTrigger>
+</snippet>

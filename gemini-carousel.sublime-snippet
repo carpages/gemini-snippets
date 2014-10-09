@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+<div id="js-carousel" class="carousel">
+  <ul class="carousel__list carousel__list--3">
+    <li>Content for item 1</li>
+    <li>Content for item 2</li>
+    <li>Content for item 3</li>
+    <li>Content for item 4</li>
+  </ul>
+  <!-- Can be added automatically using the pagination setting -->
+  <button class="button" data-goto="--">Previous Page</button>
+  <button class="button" data-goto="2">Page 2</button>
+  <button class="button" data-goto="++">Next Page</button>
+</div>
+  ]]></content>
+  <tabTrigger>g-carousel</tabTrigger>
+</snippet>

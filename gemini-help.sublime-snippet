@@ -1,0 +1,32 @@
+<snippet>
+  <content><![CDATA[
+<!--
+  # GEMINI CSS
+
+  - g-blocklist
+  - g-buttongroup
+  - g-flyout
+  - Grid: g-row, g-row39, g-row66, g-row93, g-row444, g-row3333, g-col
+  - g-help
+  - g-icon
+  - g-linkcomplex
+  - g-media
+  - Media Queries: g-mqs, g-mqm, g-mql
+  - g-multilist
+  - g-nav
+  - g-overlay
+  - g-split
+  - g-stat
+  - g-table
+
+
+  # GEMINI JS
+
+  - g-carousel
+  - g-accordion
+  - g-tab
+  - g-tooltip
+-->
+  ]]></content>
+  <tabTrigger>g-help</tabTrigger>
+</snippet>
