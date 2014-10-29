@@ -17,7 +17,11 @@ Want to start creating a 3 column layout based on the 12 column Gemini grid? Sim
 
 This tool requires Sublime Text 2 or Sublime Text 3, and the [Carpages.ca](https://github.com/carpages) Gemini Framework.
 
-To get started with using Gemini Snippets you'll need to copy the files from this repo into your Sublime Text ``Packages/Snippets`` directory (create the directory if it doesn't exist). You can learn more about [the default location of this directory here](http://docs.sublimetext.info/en/sublime-text-3/basic_concepts.html#the-data-directory) (though many developers sync this folder in Dropbox). Once the snippet files are in the folder they should instantly work in Sublime Text!
+To get started with using Gemini Snippets you'll need to copy the files from this repo into your Sublime Text ``Packages/User/Snippets`` directory (create the directory if it doesn't exist). You can learn more about [the default location of this directory here](http://docs.sublimetext.info/en/sublime-text-3/basic_concepts.html#the-data-directory) (though many developers sync this folder in Dropbox). Once the snippet files are in the folder they should instantly work in Sublime Text!
+
+```bash
+git clone https://github.com/carpages/gemini-snippets.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Snippets/Gemini
+```
 
 ### Wish List
 This version of Gemini Snippets is just the beginning of what will hopefully be a very valuable tool. There's much more we could do with this.
@@ -27,6 +31,3 @@ This version of Gemini Snippets is just the beginning of what will hopefully be 
 - Many other code editors have similar snippet features - it would be lovely if our build process could cater to other tools.
 - It would be swell if you didn't have to manually copy files into Sublime Text working folders.
 - When robots build this it would be nice to give the option of HTML / Haml / Jade for markup output.
-
-## Credits
-Gemini CSS started as a fork from [Inuit.css](https://github.com/csswizardry/inuit.css)
