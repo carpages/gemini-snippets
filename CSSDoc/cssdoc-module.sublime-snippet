@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @module ${1:name} (${2:selector})
+ * @description ${3:description}
+ *
+ * @state (${4:state}) ${5:description}
+ *
+ * @modifier (${6:modifier}) ${7:description}
+ *
+ * @markup
+ *   ${8:<div></div>}
+ */
+]]></content>
+	<tabTrigger>docmod</tabTrigger>
+	<scope>source.css, source.less, source.sass, source.scss, source.styl</scope>
+</snippet>

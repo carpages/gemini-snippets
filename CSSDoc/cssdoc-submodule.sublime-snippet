@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @submodule ${1:name} (${2:selector})
+ * @description ${3:description}
+ *
+ * @state (${4:state}) ${5:description}
+ *
+ * @modifier (${6:modifier}) ${7:description}
+ */
+]]></content>
+	<tabTrigger>docsub</tabTrigger>
+	<scope>source.css, source.less, source.sass, source.scss, source.styl</scope>
+</snippet>
