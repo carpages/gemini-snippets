@@ -9,9 +9,9 @@
  * @return {${7:type}} ${8:description}
  *
  * @example
- *   ${9:.foo\{
- *       color: bar();
- *   \}}
+    ${9:.foo\{
+      color: bar();
+    \}}
  */
 ]]></content>
 	<tabTrigger>docfun</tabTrigger>

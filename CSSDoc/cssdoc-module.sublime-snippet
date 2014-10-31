@@ -9,7 +9,7 @@
  * @modifier (${6:modifier}) ${7:description}
  *
  * @markup
- *   ${8:<div></div>}
+    ${8:<div></div>}
  */
 ]]></content>
 	<tabTrigger>docmod</tabTrigger>

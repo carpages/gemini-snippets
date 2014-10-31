@@ -7,9 +7,9 @@
  * @param {${3:type}} [${4:name}=${5:default value}] ${6:description}
  *
  * @example
- *   ${7:.foo\{
- *       @include bar();
- *   \}}
+    ${7:.foo\{
+      @include bar();
+    \}}
  */
 ]]></content>
 	<tabTrigger>docmix</tabTrigger>
