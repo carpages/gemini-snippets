@@ -11,7 +11,9 @@
       @include bar();
     \}}
  */
+
 ]]></content>
+
 	<tabTrigger>docmix</tabTrigger>
 	<scope>source.css, source.less, source.sass, source.scss, source.styl</scope>
 </snippet>

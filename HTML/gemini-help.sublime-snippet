@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-<!--
+${1:<!--
   # GEMINI CSS
 
   - g-blocklist
@@ -12,7 +12,7 @@
   - g-linkcomplex
   - g-media
   - Media Queries: g-mqs, g-mqm, g-mql
-  - g-multilist
+  - g-multilist / t-multilist
   - g-nav
   - g-overlay
   - g-split
@@ -26,7 +26,9 @@
   - g-accordion
   - g-tab
   - g-tooltip
--->
+-->}
+
   ]]></content>
+
   <tabTrigger>g-help</tabTrigger>
 </snippet>

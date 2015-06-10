@@ -9,7 +9,9 @@
       <h1>Yup</h1>
     </div>
  */
+
 ]]></content>
+
 	<tabTrigger>docex</tabTrigger>
 	<scope>source.css, source.less, source.sass, source.scss, source.styl</scope>
 </snippet>

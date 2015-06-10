@@ -6,7 +6,9 @@
  *
  * @prop {${3:type}} [${4:name}=${5:default value}] ${6:description}
  */
+
 ]]></content>
+
   <tabTrigger>docset</tabTrigger>
   <scope>source.css, source.less, source.sass, source.scss, source.styl</scope>
 </snippet>

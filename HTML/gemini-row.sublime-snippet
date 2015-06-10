@@ -1,10 +1,13 @@
 <snippet>
   <content><![CDATA[
 <div class="l-row">
-  <div class="l-column">
-
+  <div class="l-column${1}">
+    ${2}
   </div><!-- column -->
+
 </div><!-- row -->
+
   ]]></content>
+
   <tabTrigger>g-row</tabTrigger>
 </snippet>

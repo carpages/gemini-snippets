@@ -1,8 +1,10 @@
 <snippet>
   <content><![CDATA[
-<a href="#" class="link-complex">
-  <span class="link-complex__target">Log in</span> to your account
+<a href="#${1}" class="link-complex">
+  <span class="link-complex__target">${2}Log in</span> ${3}to your account
 </a>
+
   ]]></content>
+
   <tabTrigger>g-linkcomplex</tabTrigger>
 </snippet>

@@ -13,7 +13,9 @@
       color: bar();
     \}}
  */
+
 ]]></content>
+
 	<tabTrigger>docfun</tabTrigger>
 	<scope>source.css, source.less, source.sass, source.scss, source.styl</scope>
 </snippet>

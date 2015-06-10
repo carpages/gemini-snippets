@@ -1,11 +1,13 @@
 <snippet>
   <content><![CDATA[
 <div class="overlay">
-  <h2></h2>
+  <h2>${1}</h2>
   <div class="overlay__content--top-right">
-
+    ${2}
   </div>
 </div><!-- overlay -->
+
   ]]></content>
+
   <tabTrigger>g-overlay</tabTrigger>
 </snippet>

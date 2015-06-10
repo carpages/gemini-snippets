@@ -1,9 +1,11 @@
 <snippet>
   <content><![CDATA[
 <dl class="stat">
-  <dt class="stat__title">Exterior Color</dt>
-  <dd class="stat__value">Value</dd>
-</dl>
+  <dt class="stat__title">${1}Exterior Color</dt>
+  <dd class="stat__value">${2}Value</dd>
+</dl><!-- stat -->
+
   ]]></content>
+
   <tabTrigger>g-stat</tabTrigger>
 </snippet>

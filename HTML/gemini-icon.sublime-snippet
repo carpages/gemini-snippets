@@ -1,6 +1,7 @@
 <snippet>
   <content><![CDATA[
-<i class="icon--keyword"><span class="a11y">Icon</span></i>
+<i class="icon--${1:keyword}"><span class="a11y">${1:keyword} Icon</span></i>
   ]]></content>
+
   <tabTrigger>g-icon</tabTrigger>
 </snippet>

@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+{% spaceless %}
+<ul class="multi-list  multi-list--block  multi-list--medium-4  multi-list--large-5">
+  ${1}<li>Lorem</li>
+  <li>Ipsum</li>
+  <li>Dolor</li>
+  <li>Sit</li>
+</ul><!-- multi-list -->
+{% endspaceless %}
+
+  ]]></content>
+
+  <tabTrigger>t-multilist</tabTrigger>
+</snippet>

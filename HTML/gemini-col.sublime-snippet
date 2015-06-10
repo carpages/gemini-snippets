@@ -1,8 +1,10 @@
 <snippet>
   <content><![CDATA[
-<div class="l-column">
-
+<div class="l-column${1}">
+  ${2}
 </div><!-- column -->
+
   ]]></content>
+
   <tabTrigger>g-col</tabTrigger>
 </snippet>

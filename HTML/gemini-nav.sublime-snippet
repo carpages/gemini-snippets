@@ -1,11 +1,13 @@
 <snippet>
   <content><![CDATA[
 <ul class="nav" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
-  <li><a href="#" itemprop="url">Showroom</a></li>
-  <li><a href="#" itemprop="url">Financing</a></li>
-  <li><a href="#" itemprop="url">About Us</a></li>
-  <li><a href="#" itemprop="url">Contact</a></li>
-</ul>
+  <li><a href="#${1}" itemprop="url">Showroom</a></li>
+  <li><a href="#${2}" itemprop="url">Financing</a></li>
+  <li><a href="#${3}" itemprop="url">About Us</a></li>
+  <li><a href="#${4}" itemprop="url">Contact</a></li>
+</ul><!-- nav -->
+
   ]]></content>
+
   <tabTrigger>g-nav</tabTrigger>
 </snippet>

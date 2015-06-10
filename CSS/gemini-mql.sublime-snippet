@@ -3,6 +3,8 @@
 @include quick-media-query(large) {
 
 }
+
   ]]></content>
+
   <tabTrigger>g-mql</tabTrigger>
 </snippet>

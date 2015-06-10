@@ -1,8 +1,9 @@
 <snippet>
   <content><![CDATA[
-<span class="js-tooltip" data-tip="TooltipContent" data-place="left">
-
+<span class="js-tooltip" data-tip="${1:Content}" data-place="${2:Left}">
+  ${3}
 </span>
+
   ]]></content>
   <tabTrigger>g-tooltip</tabTrigger>
 </snippet>

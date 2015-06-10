@@ -2,12 +2,16 @@
   <content><![CDATA[
 <div class="l-row">
   <div class="l-column--medium-9">
-
+    ${1}
   </div><!-- column -->
+
   <div class="l-column--medium-3">
-
+    ${2}
   </div><!-- column -->
+
 </div><!-- row -->
+
   ]]></content>
+
   <tabTrigger>g-row93</tabTrigger>
 </snippet>

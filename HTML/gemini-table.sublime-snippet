@@ -2,20 +2,28 @@
   <content><![CDATA[
 <table class="table--rule">
   <colgroup>
-    <col class="t50">
+    ${1}<col class="t50">
     <col class="t50">
   </colgroup>
+  <thead>
+    <tr>
+      <th id="${2}">${4}</th>
+      <th id="${3}">${5}</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <th></th>
-      <td></td>
+      <td headers="${2}">${6}</td>
+      <td headers="${3}">${7}</td>
     </tr>
     <tr>
-      <th></th>
-      <td></td>
+      <td headers="${2}">${8}</td>
+      <td headers="${3}">${9}</td>
     </tr>
   </tbody>
 </table>
+
   ]]></content>
+
   <tabTrigger>g-table</tabTrigger>
 </snippet>

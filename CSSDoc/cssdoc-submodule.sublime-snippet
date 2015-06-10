@@ -8,7 +8,9 @@
  *
  * @modifier [${6:modifier}] ${7:description}
  */
+
 ]]></content>
+
 	<tabTrigger>docsub</tabTrigger>
 	<scope>source.css, source.less, source.sass, source.scss, source.styl</scope>
 </snippet>

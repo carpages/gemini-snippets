@@ -1,10 +1,12 @@
 <snippet>
   <content><![CDATA[
-<div class="button-group button-group--3">
+<div class="button-group button-group--3${1}">
+  ${2}<a class="button">Button</a>
   <a class="button">Button</a>
   <a class="button">Button</a>
-  <a class="button">Button</a>
-</div>
+</div><!-- button-group -->
+
   ]]></content>
+
   <tabTrigger>g-buttongroup</tabTrigger>
 </snippet>

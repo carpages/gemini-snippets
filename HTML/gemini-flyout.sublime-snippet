@@ -1,12 +1,14 @@
 <snippet>
   <content><![CDATA[
-<div class="flyout">
-  Foo
+<div class="flyout${1}">
+  ${2}Foo
   <div class="flyout__content">
     <p>Lorem</p>
     <p>Ipsum</p>
   </div>
-</div>
+</div><!-- flyout -->
+
   ]]></content>
+
   <tabTrigger>g-flyout</tabTrigger>
 </snippet>

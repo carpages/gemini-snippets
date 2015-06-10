@@ -2,21 +2,25 @@
   <content><![CDATA[
 <div id="js-tabs">
   <div role="tablist">
-    <a id="tab-label--tab1" href="#tab-tab1" role="tab" aria-controls="tab-tab1">Tab1</a>
-    <a id="tab-label--tab2" href="#tab-tab2" role="tab" aria-controls="tab-tab2">Tab2</a>
-    <a id="tab-label--tab3" href="#tab-tab3" role="tab" aria-controls="tab-tab3">Tab3</a>
+    <a id="tab-label--${1:tab1}" href="#tab-${1:tab1}" role="tab" aria-controls="tab-${1:tab1}">${1:tab1}</a>
+    <a id="tab-label--${2:tab2}" href="#tab-${2:tab2}" role="tab" aria-controls="tab-${2:tab2}">${2:tab2}</a>
+    <a id="tab-label--${3:tab3}" href="#tab-${3:tab3}" role="tab" aria-controls="tab-${3:tab3}">${3:tab3}</a>
   </div>
 </div><!-- tabs -->
 
-<div id="tab-tab1" class="tab  is-active" role="tabpanel" aria-labelledby="tab-label--tab1">
-
+<div id="tab-${1:tab1}" class="tab  is-active" role="tabpanel" aria-labelledby="tab-label--${1:tab1}">
+  ${4}
 </div><!-- tab -->
-<div id="tab-tab2" class="tab" role="tabpanel" aria-labelledby="tab-label--tab2">
 
+<div id="tab-${2:tab2}" class="tab" role="tabpanel" aria-labelledby="tab-label--${2:tab2}">
+  ${5}
 </div><!-- tab -->
-<div id="tab-tab3" class="tab" role="tabpanel" aria-labelledby="tab-label--tab3">
 
+<div id="tab-${3:tab3}" class="tab" role="tabpanel" aria-labelledby="tab-label--${3:tab3}">
+  ${6}
 </div><!-- tab -->
+
   ]]></content>
+
   <tabTrigger>g-tab</tabTrigger>
 </snippet>

@@ -3,6 +3,8 @@
 @include quick-media-query(medium) {
 
 }
+
   ]]></content>
+
   <tabTrigger>g-mqm</tabTrigger>
 </snippet>

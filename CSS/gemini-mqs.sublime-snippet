@@ -3,6 +3,8 @@
 @include quick-media-query(small) {
 
 }
+
   ]]></content>
+
   <tabTrigger>g-mqs</tabTrigger>
 </snippet>
