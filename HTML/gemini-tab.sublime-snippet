@@ -1,22 +1,22 @@
 <snippet>
   <content><![CDATA[
 <div id="js-tabs">
-  <div role="tablist">
-    <a id="tab-label--${1:tab1}" href="#tab-${1:tab1}" role="tab" aria-controls="tab-${1:tab1}">${1:tab1}</a>
-    <a id="tab-label--${2:tab2}" href="#tab-${2:tab2}" role="tab" aria-controls="tab-${2:tab2}">${2:tab2}</a>
-    <a id="tab-label--${3:tab3}" href="#tab-${3:tab3}" role="tab" aria-controls="tab-${3:tab3}">${3:tab3}</a>
-  </div>
+  <ul role="tablist" class="nav nav--tabs nav--tabs--head epsilon">
+    <li id="tab-label--${1:tab1}"><a href="#tab-${1:tab1}" role="tab" aria-controls="tab-${1:tab1}">${1:tab1}</a></li>
+    <li id="tab-label--${2:tab2}"><a href="#tab-${2:tab2}" role="tab" aria-controls="tab-${2:tab2}">${2:tab2}</a></li>
+    <li id="tab-label--${3:tab3}"><a href="#tab-${3:tab3}" role="tab" aria-controls="tab-${3:tab3}">${3:tab3}</a></li>
+  </ul>
 </div><!-- tabs -->
 
-<div id="tab-${1:tab1}" class="tab  is-active" role="tabpanel" aria-labelledby="tab-label--${1:tab1}">
+<div id="tab-${1:tab1}" class="tab  is-active soft container--tabs position--relative" role="tabpanel" aria-labelledby="tab-label--${1:tab1}">
   ${4}
 </div><!-- tab -->
 
-<div id="tab-${2:tab2}" class="tab" role="tabpanel" aria-labelledby="tab-label--${2:tab2}">
+<div id="tab-${2:tab2}" class="tab soft container--tabs position--relative" role="tabpanel" aria-labelledby="tab-label--${2:tab2}">
   ${5}
 </div><!-- tab -->
 
-<div id="tab-${3:tab3}" class="tab" role="tabpanel" aria-labelledby="tab-label--${3:tab3}">
+<div id="tab-${3:tab3}" class="tab soft container--tabs position--relative" role="tabpanel" aria-labelledby="tab-label--${3:tab3}">
   ${6}
 </div><!-- tab -->
 
